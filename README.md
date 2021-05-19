@@ -16,12 +16,15 @@
 
 ### Build
 
-Go
-
-MingW
+Go 、MinGW
 
 ```
 sh build.sh
+```
+
+### Run
+
+```
 sh output/bootstrap.sh
 ```
 
